@@ -44,7 +44,6 @@ I'm a passionate developer building useful and scalable applications.
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?logo=googlegemini&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-5A67D8?logo=openai&logoColor=white)
 
-## GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -53,8 +52,4 @@ I'm a passionate developer building useful and scalable applications.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharitmn&theme=radical" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharitmn&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharitmn&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharitmn&layout=donut&theme=radical)
