@@ -8,10 +8,11 @@ I'm a passionate developer building useful and scalable applications.
 
 ## About me
 
-- 💻 Currently working on web applications
-- 🌱 Currently learning new technologies
-- 💬 Ask me about JavaScript, React, Laravel, PHP, and APIs
-- ⚡ Fun fact: I enjoy solving challenging coding problems
+- 💻 Currently building modern and scalable web applications
+- 🌱 Continuously learning AI, machine learning, and emerging technologies
+- 💬 Ask me about JavaScript, React, Laravel, PHP, REST APIs, and databases
+- 🤖 Interested in generative AI, automation, and intelligent applications
+- ⚡ Fun fact: I enjoy turning complex problems into simple solutions
 
 ## Skills
 
