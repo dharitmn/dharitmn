@@ -46,6 +46,15 @@ I'm a passionate developer building useful and scalable applications.
 
 ## GitHub Stats
 
-![Dharit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharitmn&show_icons=true&theme=react)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dharitmn&show_icons=true&theme=radical" alt="Dharit's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharitmn&theme=radical" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharitmn&layout=compact&theme=radical" alt="Top languages" />
+</p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharitmn&layout=compact&theme=react)
