@@ -6,6 +6,8 @@ I'm a passionate developer building useful and scalable applications.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/dharitmn)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/dharit-maniyar-710247136/)
+
 ## About me
 
 - 💻 Currently building modern and scalable web applications
